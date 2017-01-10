@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Other](https://github.com/canteroe/hello-world/other)
+[Other](https://canteroe.github.io/hello-world/other)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
