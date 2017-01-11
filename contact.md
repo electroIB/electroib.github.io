@@ -1,4 +1,4 @@
-# [Home](./) | [Other](other) | [About](about)
+### [Home](./) [Other](other) [About](about)
 
 Contact me at
 
