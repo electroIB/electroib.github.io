@@ -1,6 +1,6 @@
-# [Home](./) | [Other](other)| [About](about)
+# [Home](./) | [Other](other) | [About](about)
 
-#Contact me at
+Contact me at
 
 email (at) organization (dot) com
 
