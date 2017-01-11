@@ -8,12 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<h1>Blog</h1>
+# Blog
 {% for post in site.posts %}
-    <h2>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <span><strong>{{ post.date | date: "%Y-%m-%d" }}</strong></span>
+    ## [post.title]({{ post.url | prepend: site.baseurl }}"
+    
+    {{ post.date | date: "%Y-%m-%d" }}
     {{ post.excerpt }}
-    <p><a href="{{ post.url | prepend: site.baseurl }}">READ MORE</a></p>
+    [READ MORE]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
