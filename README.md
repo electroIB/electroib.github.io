@@ -1,8 +1,4 @@
-[Other](other)                   [Contact](contact)               [About](about)
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-
+[Other](other) | [Contact](contact) | [About](about)
 
 ## Welcome to GitHub Pages
 
