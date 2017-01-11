@@ -1,8 +1,4 @@
-[Other](https://canteroe.github.io/hello-world/other)
-
-
-[Other](other)
-
+[Other](other)  [Contact](contact) [About](about)
 
 
 ## Welcome to GitHub Pages
