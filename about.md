@@ -1,4 +1,4 @@
-# [Home](./) | [Contact](contact) | [About](about)
+# [Home](./) | [Other](other) | [Contact](contact)
 
 This is the about page.
 
