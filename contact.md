@@ -1,3 +1,4 @@
+# [Home](./) | [Other](other)| [About](about)
 
 #Contact me at
 
