@@ -1,4 +1,4 @@
-## [Other](other) [Contact](contact) [About](about)
+### [Other](other) [Contact](contact) [About](about)
 
 # Welcome!
 
