@@ -4,4 +4,4 @@
 Temas de la unidad 0.
 
 ## Unidad 1
-Temas dela unidad 1.
+Temas de la unidad 1.
