@@ -1,4 +1,4 @@
-### [Programa](programa) [Prácticas](practicas)[Docentes](docentes)[Bibliografía](bibliografia)
+### [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
 # Bienvenidos!
 
