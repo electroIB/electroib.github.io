@@ -5,5 +5,5 @@
    
 {{ post.date | date: "%Y-%m-%d" }}
 {{ post.excerpt }}
-[READ MORE]({{ post.url | prepend: site.baseurl }})
+[Leer más]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
