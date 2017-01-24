@@ -1,6 +1,6 @@
-### [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
+### [Novedades](./) [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
-# Bienvenidos!
+# Novedades
 
 {% for post in site.posts %}
 ## {{ post.title }}
