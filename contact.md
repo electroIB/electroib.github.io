@@ -1,7 +1,5 @@
-### [Home](./) [Other](other) [About](about)
+### [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
-Contact me at
+Docente 1 (Depto. 1)
+Docente 2 (Depto. 2)
 
-email (at) organization (dot) com
-
-Thanks!
