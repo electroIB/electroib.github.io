@@ -1,6 +1,6 @@
-### [Other](other) [Contact](contact) [About](about)
+### [Programa](programa) [Prácticas](practicas)[Docentes](docentes)[Bibliografía](bibliografia)
 
-# Welcome!
+# Bienvenidos!
 
 {% for post in site.posts %}
 ## {{ post.title }}
