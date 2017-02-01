@@ -1,3 +1,1 @@
-## Bienvenido
-
-Página de prueba para electro.
+## Electromagnetismo IB 2017.
