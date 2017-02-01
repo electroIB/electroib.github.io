@@ -1,6 +1,6 @@
 ### [Novedades](./) [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
-[PDF]({{ site.baseurl }}/docs/programa.pdf)
+[PDF]({{ site.baseurl }}/docs/Programa.pdf)
 
 ## Electrostática
 Propiedades de la carga eléctrica. Campo eléctrico. Ley de Gauss. Potencial electrostático. Dipolo eléctrico y desarrollo multipolar. Condiciones de contorno. Función de Green de la ecuación de Poisson. Resolución de la ecuación de Laplace por separación de variables. Energía electrostática.
