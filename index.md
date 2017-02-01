@@ -1,5 +1,7 @@
 ### [Novedades](./) [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
+## Novedades
+
 {% for post in site.posts %}
 ## {{ post.title }}
    
