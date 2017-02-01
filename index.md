@@ -3,7 +3,7 @@
 ## Novedades
 
 {% for post in site.posts %}
-## {{ post.title }}
+### {{ post.title }}
    
 {{ post.date | date: "%Y-%m-%d" }}
 {{ post.excerpt }}
