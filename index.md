@@ -3,9 +3,7 @@
 ## Novedades
 
 {% for post in site.posts %}
-### {{ post.title }}
-   
-{{ post.date | date: "%Y-%m-%d" }}
+### {{ post.date | date: "%d-%m-%Y" }} {{ post.title }} 
 {{ post.excerpt }}
 [Leer más]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
