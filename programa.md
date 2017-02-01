@@ -1,5 +1,7 @@
 ### [Novedades](./) [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
+# Programa
+
 [PDF]({{ site.baseurl }}/docs/Programa.pdf)
 
 ## Electrostática
