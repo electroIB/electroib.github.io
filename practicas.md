@@ -3,3 +3,4 @@
 ## Prácticas
 
 [Práctica 0]({{ site.baseurl }}/docs/Practica_0.pdf)
+[Práctica 1]({{ site.baseurl }}/docs/Practica_1.pdf)
