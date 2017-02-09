@@ -4,6 +4,7 @@
 
 {% for post in site.posts %}
 ### {{ post.date | date: "%d-%m-%Y" }}: {{ post.title }} 
-{{ post.excerpt }}
-[Leer más]({{ post.url | prepend: site.baseurl }})
+<!--{{ post.excerpt }}-->
+<!--[Leer más]({{ post.url | prepend: site.baseurl }})-->
+{{post.content}}
 {% endfor %}
