@@ -13,3 +13,5 @@
 [Práctica 4]({{ site.baseurl }}/docs/Practica_4.pdf)
 
 [Práctica 5]({{ site.baseurl }}/docs/Practica_5.pdf)
+
+[Práctica 6]({{ site.baseurl }}/docs/Practica_6.pdf)
