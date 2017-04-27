@@ -17,3 +17,5 @@
 [Práctica 6]({{ site.baseurl }}/docs/Practica_6.pdf)
 
 [Práctica 7]({{ site.baseurl }}/docs/Practica_7.pdf)
+
+[Práctica 8]({{ site.baseurl }}/docs/Practica_8.pdf)
