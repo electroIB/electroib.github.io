@@ -1,5 +1,8 @@
 ### [Novedades](./) [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
+[Identidades vectoriales]({{ site.baseurl }}/docs/Identidades.pdf)
+[Delta de Dirac]({{ site.baseurl }}/docs/Delta_de_Dirac.pdf)
+
 ## Prácticas
 
 [Práctica 0]({{ site.baseurl }}/docs/Practica_0.pdf)
