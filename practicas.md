@@ -1,6 +1,7 @@
 ### [Novedades](./) [Programa](programa)  [Prácticas](practicas)  [Docentes](docentes)  [Bibliografía](bibliografia)
 
 [Identidades vectoriales]({{ site.baseurl }}/docs/Identidades.pdf)
+
 [Delta de Dirac]({{ site.baseurl }}/docs/Delta_de_Dirac.pdf)
 
 ## Prácticas
@@ -30,8 +31,8 @@
 [Práctica 11]({{ site.baseurl }}/docs/Practica_11.pdf)
 
 Ejercicios de repaso de radiación:
-[Aceleración]({{ site.baseurl }}/docs/aceleracion.pdf)
-[Oscilador]({{ site.baseurl }}/docs/oscilador.pdf)
+[Aceleración]({{ site.baseurl }}/docs/aceleracion.pdf) - 
+[Oscilador]({{ site.baseurl }}/docs/oscilador.pdf) - 
 [Scattering]({{ site.baseurl }}/docs/scattering.pdf)
 
 Repaso de relatividad especial:
