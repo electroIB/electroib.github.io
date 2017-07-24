@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Consultas y Evaluación Final - Actualizado"
+title:  "Consultas y Evaluación Finalo"
 date:   2017-06-07 09:00:00 -0300
 ---
 El día Jueves 8 de Junio vamos a hacer clase de consulta en el aula Falicov a partir de las 9 hs.
